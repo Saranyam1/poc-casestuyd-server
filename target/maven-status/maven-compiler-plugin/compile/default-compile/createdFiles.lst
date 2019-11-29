@@ -1,0 +1,8 @@
+com\casestudy\microservices\config\EmployeeSecurityConfiguration.class
+com\casestudy\microservices\model\Orders.class
+com\casestudy\microservices\model\Employee.class
+com\casestudy\microservices\config\AuthorizationServerConfig.class
+com\casestudy\microservices\controllers\EmployeeController.class
+com\casestudy\microservices\config\ResourceServer.class
+com\casestudy\microservies\PocCaseStudyOAuth2ServerApplication.class
+com\casestudy\microservices\model\UserDetails.class
